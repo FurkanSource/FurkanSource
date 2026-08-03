@@ -37,5 +37,15 @@ Python CLI that pulls a repo's open/stale issue and PR counts, CI state, and lat
 `Python` · `requests` · `pytest` · `Ruff` · `GitHub Actions`
 
 # 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=FurkanSource&theme=tokyonight&hide_border=false)
+
+<!--
+The two cards below use github-readme-stats.vercel.app, whose public
+instance is currently returning 503 DEPLOYMENT_PAUSED. Uncomment when
+it comes back, or point them at your own fork deployed to Vercel:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+
 ![](https://github-readme-stats.vercel.app/api?username=FurkanSource&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSource&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+-->
+
