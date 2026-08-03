@@ -8,7 +8,7 @@ Backend-leaning. Building things I can explain line by line.<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE-HERE) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:epickyourgame@gmail.com) [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?logo=vercel&logoColor=white)](https://csihackathon-plum.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-HANDLE-HERE](https://www.linkedin.com/in/furkan-candar-a4952a427/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:npminstallfurkan@gmail.com) [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?logo=vercel&logoColor=white)](https://csihackathon-plum.vercel.app)
 
 # 💻 Tech Stack:
 
