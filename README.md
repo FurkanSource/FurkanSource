@@ -3,7 +3,7 @@ CS sophomore at the College of Staten Island (CUNY), New York.<br>
 Backend-leaning. Building things I can explain line by line.<br><br>
 🔭 Currently building **RepoPulse**, a Python CLI for GitHub issue/PR triage<br>
 📚 Data structures in CSC 326, interview patterns in Python on the side<br>
-🎯 Open to **Summer 2027** and **Summer 2028** SWE internships · U.S. citizen · will relocate<br>
+🎯 Open to **Summer 2027** and **Summer 2028** SWE internships · U.S. citizen<br>
 🏆 Business Track Winner, Dolphin Hacks 2026 (MLH-sponsored)
 
 
