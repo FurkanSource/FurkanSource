@@ -21,11 +21,6 @@ Three people, twelve hours. Flask API with 9 routes, React front end, SQLite per
 
 **[Live demo](https://csihackathon-plum.vercel.app)** — frontend only; backend isn't deployed, so it falls back to sample leads. Clone and run locally for real data.
 
-### RepoPulse — *in progress*
-
-Python CLI that pulls a repo's open/stale issue and PR counts, CI state, and latest release via the GitHub REST API, then prints a table or JSON. Handles pagination, rate limits, and timeouts. Tests mock the HTTP boundary so the suite never hits the network.
-
-`Python` · `requests` · `pytest` · `Ruff` · `GitHub Actions`
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=FurkanSource&theme=tokyonight&hide_border=false)
