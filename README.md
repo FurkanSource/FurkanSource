@@ -1,7 +1,7 @@
-# 💫 About Me:
+# About Me:
 CS sophomore at the College of Staten Island (CUNY), New York.<br>
-🎯 Open to **Summer 2027** and **Summer 2028** SWE internships · U.S. citizen<br>
-🏆 Business Track Winner, Dolphin Hacks 2026 (MLH-sponsored)
+Open to **Summer 2027** and **Summer 2028** SWE internships · U.S. citizen<br>
+Business Track Winner, Dolphin Hacks 2026 (MLH-sponsored)
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ CS sophomore at the College of Staten Island (CUNY), New York.<br>
 
 # 📌 Projects:
 
-### [SmartLead](https://github.com/FurkanSource/csihackathon) — 🏆 Business Track Winner, Dolphin Hacks 2026
+### [SmartLead](https://github.com/FurkanSource/csihackathon) — Business Track Winner, Dolphin Hacks 2026
 
 Describe your business and location; it finds **real nearby businesses** through OpenStreetMap, scores each for fit, estimates deal value, and drafts an outreach sequence.
 
