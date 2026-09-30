@@ -9,7 +9,7 @@ Business Track Winner, Dolphin Hacks 2026 (MLH-sponsored)
 
 # 💻 Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Assembly](https://img.shields.io/badge/Assembly-555555.svg?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📌 Projects:
 
@@ -20,6 +20,20 @@ Describe your business and location; it finds **real nearby businesses** through
 Three people, twelve hours. Flask API with 9 routes, React front end, SQLite persistence, LLM credential held server-side so the browser never sees it. Seven automated tests cover environment config, API boundaries, and graceful fallback when the AI service is unreachable.
 
 **[Live demo](https://csihackathon-plum.vercel.app)** — frontend only; backend isn't deployed, so it falls back to sample leads. Clone and run locally for real data.
+
+
+### [SWEpper](https://github.com/FurkanSource/swe-internship-scraper) — Software Engineering Internship Scraper
+
+A Python command-line tool that collects internship openings from official job boards across **six ATS providers**, with a catalog of **1,200+ configured employer boards**. It exports CSV and JSON and combines duplicate listings while preserving direct application URLs and source evidence.
+
+**AI-assisted build · My role:** Defined requirements and validated results, including cross-provider deduplication and preservation of direct application links. Project stack: Python, Requests, concurrency, and GitHub Actions.
+
+
+### [MListCo Vehicle Filter](https://github.com/FurkanSource/mlistco-filter) — Vehicle Inventory Userscript
+
+A Tampermonkey userscript that adds **make, model, year, price, mileage, and sold-status filters** to MListCo inventory, with persistent settings and browsing state. It matches mileage from existing listing responses when cards omit it and supports sorting and lazy loading.
+
+**AI-assisted build · My role:** Specified behavior, tested the live site, identified failures, and directed iterations. The implementation was AI-generated. Project stack: JavaScript, DOM APIs, and Tampermonkey.
 
 
 # 📊 GitHub Stats:
