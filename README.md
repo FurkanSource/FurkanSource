@@ -26,14 +26,11 @@ Three people, twelve hours. Flask API with 9 routes, React front end, SQLite per
 
 A Python command-line tool that collects internship openings from official job boards across **six ATS providers**, with a catalog of **1,200+ configured employer boards**. It exports CSV and JSON and combines duplicate listings while preserving direct application URLs and source evidence.
 
-**AI-assisted build · My role:** Defined requirements and validated results, including cross-provider deduplication and preservation of direct application links. Project stack: Python, Requests, concurrency, and GitHub Actions.
 
 
 ### [MListCo Vehicle Filter](https://github.com/FurkanSource/mlistco-filter) — Vehicle Inventory Userscript
 
 A Tampermonkey userscript that adds **make, model, year, price, mileage, and sold-status filters** to MListCo inventory, with persistent settings and browsing state. It matches mileage from existing listing responses when cards omit it and supports sorting and lazy loading.
-
-**AI-assisted build · My role:** Specified behavior, tested the live site, identified failures, and directed iterations. The implementation was AI-generated. Project stack: JavaScript, DOM APIs, and Tampermonkey.
 
 
 # 📊 GitHub Stats:
