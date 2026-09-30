@@ -22,9 +22,11 @@ Three people, twelve hours. Flask API with 9 routes, React front end, SQLite per
 **[Live demo](https://csihackathon-plum.vercel.app)** — frontend only; backend isn't deployed, so it falls back to sample leads. Clone and run locally for real data.
 
 
+
 ### [SWEpper](https://github.com/FurkanSource/swe-internship-scraper) — Software Engineering Internship Scraper
 
 A Python command-line tool that collects internship openings from official job boards across **six ATS providers**, with a catalog of **1,200+ configured employer boards**. It exports CSV and JSON and combines duplicate listings while preserving direct application URLs and source evidence.
+
 
 
 
