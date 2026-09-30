@@ -1,37 +1,55 @@
-# About Me:
-CS sophomore at the College of Staten Island (CUNY), New York.<br>
-Open to **Summer 2027** and **Summer 2028** SWE internships · U.S. citizen<br>
-Business Track Winner, Dolphin Hacks 2026 (MLH-sponsored)
+# Furkan Candar
 
+**Computer Science sophomore at the College of Staten Island, CUNY**  
+B.S. Computer Science, expected **May 2029** · New York
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-candar-a4952a427/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:npminstallfurkan@gmail.com) [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?logo=vercel&logoColor=white)](https://csihackathon-plum.vercel.app)
+I'm studying data structures and computer architecture, with C++ as my main language and Python for interview practice. I'm also taking CodePath's AI110 program, focused on AI-assisted development, testing generated code, and open-source collaboration.
 
-# 💻 Tech Stack:
+**Open to Summer 2027 software engineering and technical internships in NYC or remotely, and preparing for Summer 2028. U.S. citizen; no sponsorship required.**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/furkan-candar-a4952a427/) · [Email](mailto:npminstallfurkan@gmail.com)
 
-# 📌 Projects:
+## Skills
 
-### [SmartLead](https://github.com/FurkanSource/csihackathon) — Business Track Winner, Dolphin Hacks 2026
+- **Languages:** C++, C, Assembly, Python (beginner)
+- **Tools:** Git, GitHub, GitHub Actions
+- **Project exposure:** JavaScript, React, Flask, SQLite, DOM APIs, and REST APIs through the AI-assisted projects below
 
-Describe your business and location; it finds **real nearby businesses** through OpenStreetMap, scores each for fit, estimates deal value, and drafts an outreach sequence.
+## Selected projects
 
-Three people, twelve hours. Flask API with 9 routes, React front end, SQLite persistence, LLM credential held server-side so the browser never sees it. Seven automated tests cover environment config, API boundaries, and graceful fallback when the AI service is unreachable.
+### [SWEpper](https://github.com/FurkanSource/swe-internship-scraper)
 
-**[Live demo](https://csihackathon-plum.vercel.app)** — frontend only; backend isn't deployed, so it falls back to sample leads. Clone and run locally for real data.
+**Python · Requests · Concurrency · GitHub Actions** | September 2026 | AI-assisted build
 
+A command-line internship scraper with a catalog of **1,200+ configured employer boards across six ATS providers**. It exports CSV and JSON and preserves direct application URLs and source evidence when combining duplicate listings. Catalog coverage does not guarantee that every board is available or has openings.
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=FurkanSource&theme=tokyonight&hide_border=false)
+**My contribution:** Defined requirements and validated results, including cross-provider deduplication and preservation of direct application links. The implementation was developed with AI assistance.
 
-<!--
-The two cards below use github-readme-stats.vercel.app, whose public
-instance is currently returning 503 DEPLOYMENT_PAUSED. Uncomment when
-it comes back, or point them at your own fork deployed to Vercel:
-https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+### [SmartLead](https://github.com/FurkanSource/csihackathon)
 
-![](https://github-readme-stats.vercel.app/api?username=FurkanSource&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSource&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
--->
+**React · Flask · SQLite · Groq API · OpenStreetMap** | April 2026 | AI-assisted team project
 
+**Business Track winner at Dolphin Hacks 2026, an MLH-sponsored hackathon.** Our three-person team created a lead-discovery prototype in 12 hours, covering prospect search, AI qualification, saved leads, and CSV export.
+
+**My contribution:** Led product direction, demo design, and the final pitch. My role focused on the product and presentation; the backend, frontend, integrations, and automated tests were developed with AI assistance.
+
+[Live demo](https://csihackathon-plum.vercel.app) uses sample leads because the backend is not deployed. See the repository for local setup with live data.
+
+### [MListCo Vehicle Filter](https://github.com/FurkanSource/mlistco-filter)
+
+**JavaScript · DOM APIs · Tampermonkey** | April 2026 | AI-assisted build
+
+A userscript that adds make, model, year, price, mileage, and sold-status filtering to vehicle inventory, with persistent settings. It matches mileage from existing listing responses when cards omit it and supports sorting and lazy loading.
+
+**My contribution:** Specified the filtering behavior, tested the live site, identified failures, and directed iterations, including mileage matching and saved browsing state. The implementation was AI-generated.
+
+## Education and involvement
+
+- **College of Staten Island, CUNY:** B.S. Computer Science, August 2025 to May 2029 (expected). Coursework includes Introduction to Programming, Object-Oriented Programming, Data Structures, and Computer Architecture.
+- **CodePath AI110, Foundations of AI Engineering:** September to November 2026. Selected for the ten-week program. [Coursework fork](https://github.com/FurkanSource/ai110tings).
+- **CSI Computer Science Club:** Member since September 2026.
+
+## Other experience
+
+**Social Media Growth | January 2026 to present**  
+Helped clients generate **20 million+ Instagram views** by refining content, opening hooks, visuals, audio selection, and posting schedules.
